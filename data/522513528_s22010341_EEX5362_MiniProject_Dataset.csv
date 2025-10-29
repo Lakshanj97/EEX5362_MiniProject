@@ -1,0 +1,237 @@
+Prescription_ID,Department,Priority_Level,Arrival_Time_Min,Service_Time_Min,Pharmacist_ID,Service_Start_Min,Service_End_Min,Wait_Time_Min,Status
+RX166,General Ward,Routine,0.14,8.81,1,0.14,8.95,0.0,Completed
+RX167,General Ward,Routine,0.62,8.29,2,0.62,8.91,0.0,Completed
+RX101,ICU,Urgent,0.66,5.81,3,0.66,6.47,0.0,Completed
+RX216,Outpatient,Routine,1.6,8.59,3,6.47,15.06,4.87,Completed
+RX001,Emergency,Emergency,2.35,5.85,2,8.91,14.76,6.56,Completed
+RX002,Emergency,Emergency,8.93,4.8,1,8.95,13.75,0.02,Completed
+RX003,Emergency,Emergency,9.78,3.47,1,13.75,17.22,3.97,Completed
+RX004,Emergency,Emergency,10.08,5.6,2,14.76,20.36,4.68,Completed
+RX005,Emergency,Emergency,14.67,5.12,3,15.06,20.18,0.39,Completed
+RX006,Emergency,Emergency,14.78,5.91,1,17.22,23.13,2.44,Completed
+RX102,ICU,Urgent,17.82,8.03,3,20.18,28.21,2.36,Completed
+RX103,ICU,Urgent,17.89,5.51,2,20.36,25.87,2.47,Completed
+RX217,Outpatient,Routine,19.71,8.51,1,23.13,31.64,3.42,Completed
+RX168,General Ward,Routine,19.96,12.93,2,25.87,38.8,5.91,Completed
+RX007,Emergency,Emergency,23.71,3.64,3,28.21,31.85,4.5,Completed
+RX008,Emergency,Emergency,24.71,3.55,1,31.64,35.19,6.93,Completed
+RX104,ICU,Urgent,26.06,5.03,3,31.85,36.88,5.79,Completed
+RX169,General Ward,Routine,26.39,8.68,1,35.19,43.87,8.8,Completed
+RX009,Emergency,Emergency,26.53,4.57,3,36.88,41.45,10.35,Completed
+RX105,ICU,Urgent,27.37,7.74,2,38.8,46.54,11.43,Completed
+RX010,Emergency,Emergency,29.35,3.87,3,41.45,45.32,12.1,Completed
+RX170,General Ward,Routine,33.15,11.31,1,43.87,55.18,10.72,Completed
+RX011,Emergency,Emergency,34.09,3.42,3,45.32,48.74,11.23,Completed
+RX171,General Ward,Routine,35.05,11.04,2,46.54,57.58,11.49,Completed
+RX012,Emergency,Emergency,35.81,4.1,3,48.74,52.84,12.93,Completed
+RX106,ICU,Urgent,36.2,8.26,3,52.84,61.1,16.64,Completed
+RX107,ICU,Urgent,38.11,8.56,1,55.18,63.74,17.07,Completed
+RX013,Emergency,Emergency,38.86,5.36,2,57.58,62.94,18.72,Completed
+RX014,Emergency,Emergency,39.97,4.54,3,61.1,65.64,21.13,Completed
+RX172,General Ward,Routine,40.14,12.31,2,62.94,75.25,22.8,Completed
+RX108,ICU,Urgent,40.14,6.63,1,63.74,70.37,23.6,Completed
+RX015,Emergency,Emergency,44.46,3.14,3,65.64,68.78,21.18,Completed
+RX218,Outpatient,Routine,45.59,12.94,3,68.78,81.72,23.19,Completed
+RX219,Outpatient,Routine,46.86,8.59,1,70.37,78.96,23.51,Completed
+RX016,Emergency,Emergency,49.14,3.51,2,75.25,78.76,26.11,Completed
+RX017,Emergency,Emergency,49.47,5.85,2,78.76,84.61,29.29,Completed
+RX173,General Ward,Routine,50.22,8.32,1,78.96,87.28,28.74,Completed
+RX109,ICU,Urgent,50.43,8.25,3,81.72,89.97,31.29,Completed
+RX174,General Ward,Routine,54.91,12.38,2,84.61,96.99,29.7,Completed
+RX175,General Ward,Routine,61.91,14.0,1,87.28,101.28,25.37,Completed
+RX110,ICU,Urgent,64.62,8.29,3,89.97,98.26,25.35,Completed
+RX018,Emergency,Emergency,66.33,5.43,2,96.99,102.42,30.66,Completed
+RX019,Emergency,Emergency,68.14,3.29,3,98.26,101.55,30.12,Completed
+RX111,ICU,Urgent,70.92,5.47,1,101.28,106.75,30.36,Completed
+RX176,General Ward,Routine,72.66,9.14,3,101.55,110.69,28.89,Completed
+RX177,General Ward,Routine,73.39,12.5,2,102.42,114.92,29.03,Completed
+RX178,General Ward,Routine,73.66,12.1,1,106.75,118.85,33.09,Completed
+RX020,Emergency,Emergency,73.91,4.32,3,110.69,115.01,36.78,Completed
+RX112,ICU,Urgent,74.36,6.33,2,114.92,121.25,40.56,Completed
+RX021,Emergency,Emergency,74.56,4.49,3,115.01,119.5,40.45,Completed
+RX022,Emergency,Emergency,74.73,5.73,1,118.85,124.58,44.12,Completed
+RX023,Emergency,Emergency,76.23,4.99,3,119.5,124.49,43.27,Completed
+RX113,ICU,Urgent,76.46,9.87,2,121.25,131.12,44.79,Completed
+RX024,Emergency,Emergency,78.1,4.56,3,124.49,129.05,46.39,Completed
+RX114,ICU,Urgent,80.2,9.46,1,124.58,134.04,44.38,Completed
+RX025,Emergency,Emergency,82.05,3.55,3,129.05,132.6,47.0,Completed
+RX115,ICU,Urgent,87.68,8.97,2,131.12,140.09,43.44,Completed
+RX116,ICU,Urgent,92.92,7.88,3,132.6,140.48,39.68,Completed
+RX117,ICU,Urgent,98.01,5.98,1,134.04,140.02,36.03,Completed
+RX026,Emergency,Emergency,99.52,5.33,1,140.02,145.35,40.5,Completed
+RX179,General Ward,Routine,101.83,12.03,2,140.09,152.12,38.26,Completed
+RX180,General Ward,Routine,106.74,12.5,3,140.48,152.98,33.74,Completed
+RX118,ICU,Urgent,107.62,6.4,1,145.35,151.75,37.73,Completed
+RX119,ICU,Urgent,107.81,8.23,1,151.75,159.98,43.94,Completed
+RX120,ICU,Urgent,109.27,9.7,2,152.12,161.82,42.85,Completed
+RX220,Outpatient,Routine,111.59,10.62,3,152.98,163.6,41.39,Completed
+RX181,General Ward,Routine,112.87,11.82,1,159.98,171.8,47.11,Completed
+RX027,Emergency,Emergency,113.54,5.68,2,161.82,167.5,48.28,Completed
+RX028,Emergency,Emergency,118.1,5.77,3,163.6,169.37,45.5,Completed
+RX221,Outpatient,Routine,118.54,13.69,2,167.5,181.19,48.96,Completed
+RX029,Emergency,Emergency,118.56,3.59,3,169.37,172.96,50.81,Completed
+RX030,Emergency,Emergency,118.79,3.98,1,171.8,175.78,53.01,Completed
+RX031,Emergency,Emergency,121.25,3.81,3,172.96,176.77,51.71,Completed
+RX032,Emergency,Emergency,130.08,4.07,1,175.78,179.85,45.7,Completed
+RX033,Emergency,Emergency,131.72,4.63,3,176.77,181.4,45.05,Completed
+RX121,ICU,Urgent,132.35,9.57,1,179.85,189.42,47.5,Completed
+RX034,Emergency,Emergency,132.48,5.41,2,181.19,186.6,48.71,Completed
+RX035,Emergency,Emergency,132.87,5.96,3,181.4,187.36,48.53,Completed
+RX122,ICU,Urgent,135.82,5.08,2,186.6,191.68,50.78,Completed
+RX036,Emergency,Emergency,140.27,3.6,3,187.36,190.96,47.09,Completed
+RX037,Emergency,Emergency,140.3,5.45,1,189.42,194.87,49.12,Completed
+RX182,General Ward,Routine,141.25,10.7,3,190.96,201.66,49.71,Completed
+RX038,Emergency,Emergency,146.43,5.19,2,191.68,196.87,45.25,Completed
+RX039,Emergency,Emergency,153.81,3.22,1,194.87,198.09,41.06,Completed
+RX123,ICU,Urgent,155.58,7.14,2,196.87,204.01,41.29,Completed
+RX040,Emergency,Emergency,156.03,3.35,1,198.09,201.44,42.06,Completed
+RX222,Outpatient,Routine,162.67,14.9,1,201.44,216.34,38.77,Completed
+RX041,Emergency,Emergency,165.97,4.87,3,201.66,206.53,35.69,Completed
+RX042,Emergency,Emergency,167.98,3.19,2,204.01,207.2,36.03,Completed
+RX043,Emergency,Emergency,169.84,3.98,3,206.53,210.51,36.69,Completed
+RX183,General Ward,Routine,173.74,14.34,2,207.2,221.54,33.46,Completed
+RX184,General Ward,Routine,175.92,8.49,3,210.51,219.0,34.59,Completed
+RX044,Emergency,Emergency,176.38,4.91,1,216.34,221.25,39.96,Completed
+RX185,General Ward,Routine,176.98,8.13,3,219.0,227.13,42.02,Completed
+RX186,General Ward,Routine,177.98,12.78,1,221.25,234.03,43.27,Completed
+RX187,General Ward,Routine,178.72,10.23,2,221.54,231.77,42.82,Completed
+RX124,ICU,Urgent,181.09,9.82,3,227.13,236.95,46.04,Completed
+RX223,Outpatient,Routine,183.67,10.63,2,231.77,242.4,48.1,Completed
+RX224,Outpatient,Routine,184.97,13.44,1,234.03,247.47,49.06,Completed
+RX045,Emergency,Emergency,187.29,4.42,3,236.95,241.37,49.66,Completed
+RX046,Emergency,Emergency,187.93,5.14,3,241.37,246.51,53.44,Completed
+RX047,Emergency,Emergency,195.08,4.68,2,242.4,247.08,47.32,Completed
+RX125,ICU,Urgent,195.47,6.47,3,246.51,252.98,51.04,Completed
+RX225,Outpatient,Routine,197.23,10.97,2,247.08,258.05,49.85,Completed
+RX188,General Ward,Routine,197.35,8.16,1,247.47,255.63,50.12,Completed
+RX126,ICU,Urgent,199.12,9.26,3,252.98,262.24,53.86,Completed
+RX127,ICU,Urgent,201.98,5.85,1,255.63,261.48,53.65,Completed
+RX048,Emergency,Emergency,202.45,4.48,2,258.05,262.53,55.6,Completed
+RX049,Emergency,Emergency,206.15,4.28,1,261.48,265.76,55.33,Completed
+RX050,Emergency,Emergency,206.28,3.32,3,262.24,265.56,55.96,Completed
+RX051,Emergency,Emergency,206.44,4.91,2,262.53,267.44,56.09,Completed
+RX128,ICU,Urgent,208.08,9.68,3,265.56,275.24,57.48,Completed
+RX052,Emergency,Emergency,208.32,4.53,1,265.76,270.29,57.44,Completed
+RX189,General Ward,Routine,214.2,9.97,2,267.44,277.41,53.24,Completed
+RX190,General Ward,Routine,215.45,12.88,1,270.29,283.17,54.84,Completed
+RX129,ICU,Urgent,217.01,7.85,3,275.24,283.09,58.23,Completed
+RX130,ICU,Urgent,217.78,8.08,2,277.41,285.49,59.63,Completed
+RX053,Emergency,Emergency,220.23,3.75,3,283.09,286.84,62.86,Completed
+RX054,Emergency,Emergency,222.87,5.27,1,283.17,288.44,60.3,Completed
+RX055,Emergency,Emergency,224.17,3.23,2,285.49,288.72,61.32,Completed
+RX191,General Ward,Routine,225.37,14.14,3,286.84,300.98,61.47,Completed
+RX056,Emergency,Emergency,225.88,3.48,1,288.44,291.92,62.56,Completed
+RX226,Outpatient,Routine,232.76,8.78,2,288.72,297.5,55.96,Completed
+RX192,General Ward,Routine,238.65,13.62,1,291.92,305.54,53.27,Completed
+RX057,Emergency,Emergency,239.16,5.42,2,297.5,302.92,58.34,Completed
+RX193,General Ward,Routine,241.96,9.24,3,300.98,310.22,59.02,Completed
+RX227,Outpatient,Routine,242.94,8.08,2,302.92,311.0,59.98,Completed
+RX058,Emergency,Emergency,244.17,5.61,1,305.54,311.15,61.37,Completed
+RX059,Emergency,Emergency,252.31,3.56,3,310.22,313.78,57.91,Completed
+RX131,ICU,Urgent,252.36,5.7,2,311.0,316.7,58.64,Completed
+RX228,Outpatient,Routine,252.42,8.39,1,311.15,319.54,58.73,Completed
+RX229,Outpatient,Routine,254.32,8.82,3,313.78,322.6,59.46,Completed
+RX194,General Ward,Routine,255.85,13.65,2,316.7,330.35,60.85,Completed
+RX132,ICU,Urgent,257.84,9.39,1,319.54,328.93,61.7,Completed
+RX060,Emergency,Emergency,263.47,4.62,3,322.6,327.22,59.13,Completed
+RX133,ICU,Urgent,267.96,8.49,3,327.22,335.71,59.26,Completed
+RX230,Outpatient,Routine,270.03,13.22,1,328.93,342.15,58.9,Completed
+RX061,Emergency,Emergency,271.7,5.69,2,330.35,336.04,58.65,Completed
+RX062,Emergency,Emergency,273.62,3.33,3,335.71,339.04,62.09,Completed
+RX063,Emergency,Emergency,274.91,4.28,2,336.04,340.32,61.13,Completed
+RX134,ICU,Urgent,277.05,6.8,3,339.04,345.84,61.99,Completed
+RX135,ICU,Urgent,279.66,9.05,2,340.32,349.37,60.66,Completed
+RX231,Outpatient,Routine,283.17,14.74,1,342.15,356.89,58.98,Completed
+RX064,Emergency,Emergency,283.43,5.58,3,345.84,351.42,62.41,Completed
+RX065,Emergency,Emergency,283.47,4.53,2,349.37,353.9,65.9,Completed
+RX066,Emergency,Emergency,286.17,3.67,3,351.42,355.09,65.25,Completed
+RX067,Emergency,Emergency,286.81,4.01,2,353.9,357.91,67.09,Completed
+RX232,Outpatient,Routine,290.21,10.0,3,355.09,365.09,64.88,Completed
+RX136,ICU,Urgent,292.12,9.34,1,356.89,366.23,64.77,Completed
+RX068,Emergency,Emergency,301.12,3.97,2,357.91,361.88,56.79,Completed
+RX195,General Ward,Routine,302.42,10.89,2,361.88,372.77,59.46,Completed
+RX069,Emergency,Emergency,304.78,5.11,3,365.09,370.2,60.31,Completed
+RX070,Emergency,Emergency,307.04,5.92,1,366.23,372.15,59.19,Completed
+RX196,General Ward,Routine,307.07,13.43,3,370.2,383.63,63.13,Completed
+RX137,ICU,Urgent,310.45,7.56,1,372.15,379.71,61.7,Completed
+RX197,General Ward,Routine,311.24,14.52,2,372.77,387.29,61.53,Completed
+RX138,ICU,Urgent,315.68,8.99,1,379.71,388.7,64.03,Completed
+RX233,Outpatient,Routine,320.65,9.57,3,383.63,393.2,62.98,Completed
+RX071,Emergency,Emergency,323.45,3.76,2,387.29,391.05,63.84,Completed
+RX139,ICU,Urgent,323.55,8.51,1,388.7,397.21,65.15,Completed
+RX072,Emergency,Emergency,326.89,3.9,2,391.05,394.95,64.16,Completed
+RX073,Emergency,Emergency,328.56,3.11,3,393.2,396.31,64.64,Completed
+RX198,General Ward,Routine,330.79,11.0,2,394.95,405.95,64.16,Completed
+RX074,Emergency,Emergency,333.27,4.51,3,396.31,400.82,63.04,Completed
+RX075,Emergency,Emergency,333.53,3.84,1,397.21,401.05,63.68,Completed
+RX140,ICU,Urgent,335.46,9.45,3,400.82,410.27,65.36,Completed
+RX141,ICU,Urgent,338.56,6.88,1,401.05,407.93,62.49,Completed
+RX142,ICU,Urgent,339.3,7.89,2,405.95,413.84,66.65,Completed
+RX143,ICU,Urgent,339.57,7.33,1,407.93,415.26,68.36,Completed
+RX199,General Ward,Routine,344.69,13.28,3,410.27,423.55,65.58,Completed
+RX144,ICU,Urgent,345.44,6.43,2,413.84,420.27,68.4,Completed
+RX076,Emergency,Emergency,345.47,3.72,1,415.26,418.98,69.79,Completed
+RX200,General Ward,Routine,345.78,14.32,1,418.98,433.3,73.2,Completed
+RX077,Emergency,Emergency,346.26,4.47,2,420.27,424.74,74.01,Completed
+RX145,ICU,Urgent,352.14,5.15,3,423.55,428.7,71.41,Completed
+RX146,ICU,Urgent,352.43,9.11,2,424.74,433.85,72.31,Completed
+RX201,General Ward,Routine,352.81,13.79,3,428.7,442.49,75.89,Completed
+RX147,ICU,Urgent,355.78,5.64,1,433.3,438.94,77.52,Completed
+RX202,General Ward,Routine,356.67,14.27,2,433.85,448.12,77.18,Completed
+RX148,ICU,Urgent,361.32,8.85,1,438.94,447.79,77.62,Completed
+RX203,General Ward,Routine,361.6,8.08,3,442.49,450.57,80.89,Completed
+RX149,ICU,Urgent,363.14,8.11,1,447.79,455.9,84.65,Completed
+RX150,ICU,Urgent,363.81,5.26,2,448.12,453.38,84.31,Completed
+RX078,Emergency,Emergency,367.48,3.73,3,450.57,454.3,83.09,Completed
+RX151,ICU,Urgent,369.49,7.7,2,453.38,461.08,83.89,Completed
+RX234,Outpatient,Routine,370.2,8.09,3,454.3,462.39,84.1,Completed
+RX079,Emergency,Emergency,373.05,5.28,1,455.9,461.18,82.85,Completed
+RX080,Emergency,Emergency,374.41,5.18,2,461.08,466.26,86.67,Completed
+RX081,Emergency,Emergency,376.7,4.9,1,461.18,466.08,84.48,Completed
+RX152,ICU,Urgent,377.1,8.63,3,462.39,471.02,85.29,Completed
+RX082,Emergency,Emergency,381.72,4.61,1,466.08,470.69,84.36,Completed
+RX083,Emergency,Emergency,382.19,5.51,2,466.26,471.77,84.07,Completed
+RX084,Emergency,Emergency,384.13,3.56,1,470.69,474.25,86.56,Completed
+RX085,Emergency,Emergency,384.34,4.77,3,471.02,475.79,86.68,Completed
+RX204,General Ward,Routine,385.18,8.64,2,471.77,480.41,86.59,Delayed
+RX205,General Ward,Routine,389.03,14.65,1,474.25,488.9,85.22,Delayed
+RX086,Emergency,Emergency,390.0,3.05,3,475.79,478.84,85.79,Completed
+RX087,Emergency,Emergency,393.58,3.68,3,478.84,482.52,85.26,Delayed
+RX088,Emergency,Emergency,398.76,3.52,2,480.41,483.93,81.65,Delayed
+RX089,Emergency,Emergency,404.64,4.16,3,482.52,486.68,77.88,Delayed
+RX153,ICU,Urgent,405.03,7.58,2,483.93,491.51,78.9,Delayed
+RX154,ICU,Urgent,407.95,8.98,3,486.68,495.66,78.73,Delayed
+RX155,ICU,Urgent,410.32,7.19,1,488.9,496.09,78.58,Delayed
+RX156,ICU,Urgent,410.94,5.13,2,491.51,496.64,80.57,Delayed
+RX090,Emergency,Emergency,418.44,3.41,3,495.66,499.07,77.22,Delayed
+RX206,General Ward,Routine,419.1,12.01,1,496.09,508.1,76.99,Delayed
+RX091,Emergency,Emergency,420.52,3.34,2,496.64,499.98,76.12,Delayed
+RX235,Outpatient,Routine,422.74,8.3,3,499.07,507.37,76.33,Delayed
+RX207,General Ward,Routine,429.1,11.14,2,499.98,511.12,70.88,Delayed
+RX208,General Ward,Routine,432.57,10.3,3,507.37,517.67,74.8,Delayed
+RX092,Emergency,Emergency,433.45,5.63,1,508.1,513.73,74.65,Delayed
+RX093,Emergency,Emergency,434.95,4.98,2,511.12,516.1,76.17,Delayed
+RX157,ICU,Urgent,435.59,9.18,1,513.73,522.91,78.14,Delayed
+RX094,Emergency,Emergency,443.44,4.67,2,516.1,520.77,72.66,Delayed
+RX209,General Ward,Routine,443.73,13.27,3,517.67,530.94,73.94,Delayed
+RX158,ICU,Urgent,444.52,7.04,2,520.77,527.81,76.25,Delayed
+RX159,ICU,Urgent,445.95,5.78,1,522.91,528.69,76.96,Delayed
+RX095,Emergency,Emergency,447.21,3.73,2,527.81,531.54,80.6,Delayed
+RX096,Emergency,Emergency,447.7,5.69,1,528.69,534.38,80.99,Delayed
+RX160,ICU,Urgent,448.11,7.75,3,530.94,538.69,82.83,Delayed
+RX236,Outpatient,Routine,456.0,11.69,2,531.54,543.23,75.54,Delayed
+RX161,ICU,Urgent,457.51,8.3,1,534.38,542.68,76.87,Delayed
+RX097,Emergency,Emergency,459.24,4.9,3,538.69,543.59,79.45,Delayed
+RX210,General Ward,Routine,459.41,13.53,1,542.68,556.21,83.27,Delayed
+RX162,ICU,Urgent,459.97,9.77,2,543.23,553.0,83.26,Delayed
+RX211,General Ward,Routine,460.37,11.46,3,543.59,555.05,83.22,Delayed
+RX212,General Ward,Routine,460.96,11.85,2,553.0,564.85,92.04,Delayed
+RX098,Emergency,Emergency,461.31,4.05,3,555.05,559.1,93.74,Delayed
+RX213,General Ward,Routine,466.79,14.21,1,556.21,570.42,89.42,Delayed
+RX099,Emergency,Emergency,467.78,5.69,3,559.1,564.79,91.32,Delayed
+RX163,ICU,Urgent,470.02,7.77,3,564.79,572.56,94.77,Delayed
+RX214,General Ward,Routine,471.11,8.82,2,564.85,573.67,93.74,Delayed
+RX215,General Ward,Routine,472.65,13.33,1,570.42,583.75,97.77,Delayed
+RX164,ICU,Urgent,477.11,7.1,3,572.56,579.66,95.45,Delayed
+RX100,Emergency,Emergency,478.68,5.34,2,573.67,579.01,94.99,Delayed
+RX165,ICU,Urgent,479.25,6.78,2,579.01,585.79,99.76,Delayed
